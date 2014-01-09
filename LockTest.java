@@ -26,7 +26,7 @@ public class LockTest {
 
 	public static void main(String[] args) throws Exception {
 		boolean writer = false;
-/////
+/////=====
 		String filename;
 //		if (argv.length != 2) {
 //			argv[0] = "-r";
